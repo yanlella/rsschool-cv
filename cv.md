@@ -27,5 +27,5 @@ function multiply(a, b){
 
 RS School (in progress)
 ## Language:
-
-English: A2
+*English: A2
+*Russian: Native
