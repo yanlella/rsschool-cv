@@ -18,7 +18,7 @@ function multiply(a, b){
   return a * b;
 }
 ```
-====
+
 #1 Education:
 RS School (in progress)
 ====
