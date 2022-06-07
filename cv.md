@@ -1,7 +1,7 @@
 ### Alina Mukhambetalina
-====
+
 # Contacts:
-====
+
 - Email: xyanlina@gmail.com
 - [Github][https://github.com/yanlella]
 - Discord: ddvuioh#4846
