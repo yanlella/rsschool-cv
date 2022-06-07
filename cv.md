@@ -29,5 +29,6 @@ This is my first project.
 * RS School (in progress)
 
 ## Languages:
+
 * English: A2
 * Russian: Native
