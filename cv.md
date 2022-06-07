@@ -26,8 +26,7 @@ function multiply(a, b){
 This is my first project.
 
 ## Education:
-
-RS School (in progress)
+* RS School (in progress)
 ## Language:
 * English: A2
 * Russian: Native
