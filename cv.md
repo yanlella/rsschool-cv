@@ -4,7 +4,7 @@
 
 - Email: xyanlina@gmail.com
 - [Github](https://github.com/yanlella)
-- Discord: ddvuioh#4846
+- Discord: dvuioh#4846
 
 # About myself:
 
