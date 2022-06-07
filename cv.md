@@ -11,7 +11,7 @@
 I am 17 years old, I like modern technologies and therefore I decided to enter the IT-sphere as a JavaScript/Front-end developer. I hope I have the patience to stay here.
 
 ## Skills:
-====
+
 - Git, GitHub
 - VSCode
  
@@ -24,9 +24,9 @@ function multiply(a, b){
 ```
 
 ## Education:
-====
+
 RS School (in progress)
 ## Language:
-====
+
 English: A2
 Russian: Native
