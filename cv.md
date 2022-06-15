@@ -27,7 +27,8 @@ function multiply(a, b){
 This is my first project.
 
 ## Courses:
-RS School (in progress)
+* RS School (in progress)
+* Code Basics - HTML, CSS
 
 ## Languages:
 English: A2
