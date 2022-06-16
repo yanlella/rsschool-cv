@@ -6,7 +6,7 @@
 - [Github](https://github.com/yanlella)
 - Discord: dvuioh#4846
 
-## About myself:
+## Summary:
 
 I am 17 years old, I like modern technologies and therefore I decided to enter the IT-sphere as a JavaScript/Front-end developer. I hope I have the patience to stay here.
 
@@ -14,21 +14,21 @@ I am 17 years old, I like modern technologies and therefore I decided to enter t
 
 - Git, GitHub
 - VSCode
+- HTML, CSS (basics)
  
-## Code example:
+## Code:
 
 ```
 function multiply(a, b){
   return a * b;
 }
 ```
-## Work experience:
+## Projects
 This is my first project.
 
-## Education:
+## Courses:
 * RS School (in progress)
+* Code Basics - HTML, CSS
 
 ## Languages:
-
-* English: A2
-* Russian: Native
+English: A2
